@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Página principal Laura
-![Imagen de Portada](GITHUB/images.jpeg)
+![Imagen de Portada](GITHUB/GITHUB/Imagen de WhatsApp 2024-04-20 a las 17.34.48_edf20f25.jpg)
 
 ## Descripción
 ✨ Estoy actualmente estudiando DAM en la UAX.
