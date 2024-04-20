@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Título del Proyecto
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](GITHUB/images.jpeg)
 
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
