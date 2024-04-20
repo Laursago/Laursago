@@ -14,25 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Título del Proyecto
+# Página principal Laura
 ![Imagen de Portada](GITHUB/images.jpeg)
 
 ## Descripción
-Breve descripción del proyecto, objetivos y funcionalidades principales.
+✨ Estoy actualmente estudiando DAM en la UAX.
 
-## Características
-- Característica 1
-- Característica 2
-- Característica 3
-  
-## Instalación
-Instrucciones para instalar y configurar el proyecto.
+💬: Busqueda activa de cursos y recursos para seguir aprendiendo
 
-## Uso
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
-
-## Contribución
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
+📫:lauracaceres88@hotmail.com
 
 ## Licencia
-Licencia bajo la cual se distribuye el proyecto.
+Laura
