@@ -30,7 +30,8 @@ Laura
 
 
 
-![Imagen de Portada](README.jpg)
+
+
 # ✨retogit1✨
 
 🔭 Repositorio con proyecto java para reto de Entornos de Desarrollo
@@ -49,7 +50,6 @@ Laura
   
 ✨Ha sido una práctica muy entretenida y práctica para el futuro.
 
-
-
-
 [Enlace a mi proyecto](https://github.com/Laursago/retogit1)
+
+![Imagen de Portada](README.jpg)
