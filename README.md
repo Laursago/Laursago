@@ -1,4 +1,4 @@
-![Imagen de Portada](README/README.jpg)
+![Imagen de Portada](README.jpg)
 # ✨retogit1✨
 
 🔭 Repositorio con proyecto java para reto de Entornos de Desarrollo
