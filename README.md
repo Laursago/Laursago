@@ -1,3 +1,4 @@
+![Imagen de Portada](README/README.jpg)
 # ✨retogit1✨
 
 🔭 Repositorio con proyecto java para reto de Entornos de Desarrollo
@@ -16,5 +17,7 @@
   
 ✨Ha sido una práctica muy entretenida y práctica para el futuro.
 
-![Imagen de Portada](README/README.jpg)
+
+
+
 [Enlace a mi proyecto](https://github.com/Laursago/retogit1)
