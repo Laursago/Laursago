@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Página principal Laura
-![Imagen de Portada](GITHUB/yo.jpg)
+
 
 ## Descripción
-✨ Estoy actualmente estudiando DAM en la UAX.
+✨ Recien titulada en DAM en la UAX.
 
 💬: Busqueda activa de cursos y recursos para seguir aprendiendo
 
